@@ -2,4 +2,4 @@ EHR Papers
 
 # Contents
 
-[Google](https://google.com, "google link")
+[Irregular](https://arxiv.org/pdf/1912.00773.pdf, "paper link")
