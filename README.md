@@ -9,7 +9,7 @@
 
 
 ### Reinforcement Learning
-* [[Link] (https://arxiv.org/pdf/1908.08796.pdf)] - C. Yu, J. Liu, and S. Nemati, "**Reinforcement Learning in Healthcare: A Survey**," *arXiv preprint arXiv:1908.08796*, 2019.
+* [[Link](https://arxiv.org/pdf/1908.08796.pdf)] - C. Yu, J. Liu, and S. Nemati, "**Reinforcement Learning in Healthcare: A Survey**," *arXiv preprint arXiv:1908.08796*, 2019.
 
 
 ### Irregularity
@@ -18,7 +18,7 @@
 ### Explainability
 
 ### Review papers
-* [[Link] (https://arxiv.org/pdf/1908.08796.pdf)] - C. Yu, J. Liu, and S. Nemati, "**Reinforcement Learning in Healthcare: A Survey**," *arXiv preprint arXiv:1908.08796*, 2019.
+* [[Link](https://arxiv.org/pdf/1908.08796.pdf)] - C. Yu, J. Liu, and S. Nemati, "**Reinforcement Learning in Healthcare: A Survey**," *arXiv preprint arXiv:1908.08796*, 2019.
 
 
 
