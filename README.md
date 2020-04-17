@@ -13,7 +13,7 @@
 
 
 ### Irregularity
-* [Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-TanQ.778.pdf)] - Tan *et al.*, "**DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series**," * Association for the Advancement of Artificial
+* [[Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-TanQ.778.pdf)] - Tan *et al.*, "**DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series**," * Association for the Advancement of Artificial
 Intelligence (AAAI)*, 2020.
 
 * [[Link](https://arxiv.org/pdf/2004.03398.pdf)] - Srivastava *et al.*, "**Forecasting in Multivariate Irregularly Sampled Time Series with Missing Values**," *arXiv preprint arXiv:2004.03398*, 2020.
