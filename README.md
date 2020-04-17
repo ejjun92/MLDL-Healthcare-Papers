@@ -1,11 +1,13 @@
 # Papers for ML/DL Applications to Healthcare 
 
 ## Contents
+* Clinical Text Notes
 * Reinforcement Learning
 * Irregularity
 * Explainability
 ***
 
+### Clinical Text Notes 
 
 
 ### Reinforcement Learning
