@@ -12,9 +12,16 @@
 * [[Link](https://arxiv.org/pdf/1908.08796.pdf)] - Yu *et al.*, "**Reinforcement Learning in Healthcare: A Survey**," *arXiv preprint arXiv:1908.08796*, 2019.
 
 ### Modeling Clinical Text Notes
+#### Clinical concept extraction
 * [[Link](https://arxiv.org/pdf/1912.11975.pdf)] - Huang *et al.*, "**Clinical XLNet: Modeling Sequential Clinical Notes and Predicting Prolonged Mechanical Ventilation**," *arXiv preprint arXiv:1912.11975*, 2019.
 
 * [[Link](https://arxiv.org/pdf/1904.05342.pdf)] - Huang *et al.*, "**Clinicalbert: Modeling Clinical Notes and Predicting Hospital Readmission**," *arXiv preprint arXiv:1904.05342*, 2019.
+
+#### Relation extraction
+
+#### Question answering
+
+#### Predictive modeling
 
 ### Modeling Irregular-sampled Timeseries
 * [[Link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-TanQ.778.pdf)] - Tan *et al.*, "**DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series**," * Association for the Advancement of Artificial
