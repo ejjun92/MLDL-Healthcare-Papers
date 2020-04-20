@@ -4,10 +4,10 @@
 * Reinforcement Learning
 
 * Modeling Clinical Text Notes
-** Clinical concept extraction
-** Relation extraction
-** Question answering
-** Predictive modeling
+  * Clinical concept extraction
+  * Relation extraction
+  * Question answering
+  * Predictive modeling
 
 * Modeling Irregular-sampled Timeseries
 
