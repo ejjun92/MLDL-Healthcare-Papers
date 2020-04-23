@@ -1,7 +1,8 @@
 # Papers for ML/DL Applications to Healthcare 
 
 ## Contents
-* Reinforcement Learning
+
+* Modeling Irregular-sampled Timeseries
 
 * Modeling Clinical Text Notes
   * Clinical concept extraction
@@ -9,14 +10,13 @@
   * Question answering
   * Predictive modeling
 
-* Modeling Irregular-sampled Timeseries
+* Learning Multi-modal Representation
 
 * Explainability
+
+* Reinforcement Learning
 ***
 
-
-### Reinforcement Learning
-* [[Link](https://arxiv.org/pdf/1908.08796.pdf)] - Yu *et al.*, "**Reinforcement Learning in Healthcare: A Survey**," *arXiv preprint arXiv:1908.08796*, 2019.
 
 ### Modeling Clinical Text Notes
 #### Clinical concept extraction
@@ -75,7 +75,13 @@ Intelligence (AAAI)*, 2020.
 * [[Link](http://proceedings.mlr.press/v56/Lipton16.pdf) - Lipton *et al.*, "**Modeling Missing Data in Clinical Time Series with RNNs**," *Proc. of Machine Learning for Healthcare (ML4H)*, 2016.
 
 
+### Learning Multi-modal Representation
+* [[Link]()] - 
+
 ### Explainability
+
+### Reinforcement Learning
+* [[Link](https://arxiv.org/pdf/1908.08796.pdf)] - Yu *et al.*, "**Reinforcement Learning in Healthcare: A Survey**," *arXiv preprint arXiv:1908.08796*, 2019.
 
 ### Review papers
 * [[Link](https://arxiv.org/pdf/1908.08796.pdf)] - C. Yu, J. Liu, and S. Nemati, "**Reinforcement Learning in Healthcare: A Survey**," *arXiv preprint arXiv:1908.08796*, 2019.
